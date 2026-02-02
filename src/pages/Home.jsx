@@ -23,10 +23,10 @@ export default function Home() {
             </div>
             <div className="stat">
               <h3>2+</h3>
-              <p>Internships</p>
+              <p>Internship/Clubs</p>
             </div>
             <div className="stat">
-              <h3>3</h3>
+              <h3>5</h3>
               <p>Publications</p>
             </div>
           </div>
